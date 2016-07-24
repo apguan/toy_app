@@ -1,5 +1,5 @@
 current directory: /Users/apguan/Documents/toy_app/vendor/bundle/ruby/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
-/usr/local/opt/ruby/bin/ruby -r ./siteconf20160724-8908-ku4cyo.rb extconf.rb
+/usr/local/opt/ruby/bin/ruby -r ./siteconf20160724-684-kf3u5r.rb extconf.rb
 creating Makefile
 
 current directory: /Users/apguan/Documents/toy_app/vendor/bundle/ruby/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
@@ -12,4 +12,4 @@ linking shared-object websocket_mask.bundle
 
 current directory: /Users/apguan/Documents/toy_app/vendor/bundle/ruby/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20160724-8908-196eiw2
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20160724-684-1y6pb3o
